@@ -1,0 +1,3 @@
+[submodule "lib/add"]
+	path = lib/add
+	url = git@github.com:anandk3533/add.git
